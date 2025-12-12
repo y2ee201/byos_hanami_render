@@ -47,3 +47,4 @@ services:
   - type: keyvalue
     name: terminus-cache
     plan: free
+    ipAllowList: []
